@@ -1,4 +1,4 @@
-# Korean-Sentence-Compression-Model
+# Korean-Sentence-Compression-Model_ver1.0
 : Language Scoring with Morphological Analysis and Utilization of Perplexity
 
 (한국어 문장 압축 모델 : 형태소 분석을 통한 언어 점수 부여 및 Perplexity 활용)
